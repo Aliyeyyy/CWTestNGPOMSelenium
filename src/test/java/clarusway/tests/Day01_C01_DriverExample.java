@@ -1,9 +1,9 @@
-package tests;
+package clarusway.tests;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import utilities.Driver;
+import clarusway.utilities.Driver;
 
 public class Day01_C01_DriverExample {
     @Test
